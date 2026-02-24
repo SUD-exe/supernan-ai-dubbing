@@ -1,6 +1,7 @@
 # Transcription
 openai-whisper
 
+
 # Translation
 transformers
 sentencepiece
